@@ -1,0 +1,24 @@
+.destaque{
+    color:rgb(247, 30, 30);
+    font-weight: bolder;
+}
+
+body{
+    background-color: black
+}
+
+.paragrafo{
+    color: aliceblue;
+}
+
+.informações{
+    color: azure;
+}
+
+.titulo{
+    color: crimson;
+}
+
+a{
+    color: crimson;
+}
